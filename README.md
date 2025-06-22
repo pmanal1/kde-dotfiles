@@ -3,14 +3,14 @@
 Dotfiles for my Arch + KDE setup
 
 ## Dotfiles steps
-1. [Install zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
-2. [Install oh-my-zsh](https://ohmyz.sh/)
-3. Add zsh plugins: [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) and [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-4. Install terminal emulator ([kitty](https://github.com/kovidgoyal/kitty))
-5. Install [neovim](https://github.com/neovim/neovim)
-6. Install [lazyvim](https://github.com/LazyVim/LazyVim)
-7. Install [tmux](https://github.com/tmux/tmux/wiki)
-8. TODO: Stow
+1. Clone and install [dotfiles](https://github.com/pmanal1/kde-dotfiles)
+2. [Install zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+3. [Install oh-my-zsh](https://ohmyz.sh/)
+4. Add zsh plugins: [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) and [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+5. Install terminal emulator ([kitty](https://github.com/kovidgoyal/kitty))
+6. Install [neovim](https://github.com/neovim/neovim)
+7. Install [lazyvim](https://github.com/LazyVim/LazyVim)
+8. Install [tmux](https://github.com/tmux/tmux/wiki)
 
 ## Extras
 
