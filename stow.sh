@@ -2,6 +2,6 @@
 
 cd "$(dirname "$0")" || exit 1
 
-stow --adopt config
-stow --adopt gitconfig
-stow --adopt zshrc
+stow -t ~ --adopt config
+stow -t ~ --adopt gitconfig
+stow -t ~ --adopt zshrc
