@@ -21,3 +21,6 @@ Other things to do with a fresh install
 - [Bitwarden](https://bitwarden.com/)
 - [Unhook](https://unhook.app/)
 - CSS Override - in youtube.com, set the styling specfied in cssOverride.css
+
+## TODO
+1. Add dotfiles for KDE settings?
