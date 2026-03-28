@@ -1,3 +1,3 @@
-div.ytSearchboxComponentSuggestionsContainer {
+div.ytSearchboxComponentSuggestionsContainer, grid-shelf-view-model.ytGridShelfViewModelHost, div.ytp-fullscreen-grid-stills-container {
     display: none;
 }
